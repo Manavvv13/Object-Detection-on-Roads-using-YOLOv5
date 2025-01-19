@@ -5,4 +5,4 @@ streamlit
 pycocotools
 ultralytics
 numpy
-tempfile
+
