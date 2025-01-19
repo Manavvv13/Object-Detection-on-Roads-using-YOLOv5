@@ -1,5 +1,5 @@
 numpy
-opencv
+opencv-python
 torch
 streamlit
 pycocotools
