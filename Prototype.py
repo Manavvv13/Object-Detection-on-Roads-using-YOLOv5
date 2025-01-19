@@ -7,7 +7,7 @@ import numpy as np
 from tempfile import NamedTemporaryFile
 
 # Load COCO annotations
-annotation_file = r'C:\Users\HP\Documents\ObjectDetection\instances_val2017.json'
+annotation_file = 'instances_val2017.json'
 coco = COCO(annotation_file)
 
 # Load YOLOv5 model
